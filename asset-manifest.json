@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-redux_counter/static/js/main.9026d5b6.js",
+    "main.js": "/react-redux_counter/static/js/main.9111c456.js",
     "index.html": "/react-redux_counter/index.html",
-    "main.9026d5b6.js.map": "/react-redux_counter/static/js/main.9026d5b6.js.map"
+    "main.9111c456.js.map": "/react-redux_counter/static/js/main.9111c456.js.map"
   },
   "entrypoints": [
-    "static/js/main.9026d5b6.js"
+    "static/js/main.9111c456.js"
   ]
 }
